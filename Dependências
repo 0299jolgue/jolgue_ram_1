@@ -1,0 +1,1 @@
+pip install requests pyautogui opencv-python pytz keyboard pillow
